@@ -1,0 +1,11 @@
+com/bean/LoginBean.class
+com/controller/LoginController.class
+com/bean/applyBean.class
+com/service/applyService.class
+com/bean/requirementBean.class
+com/service/registerService.class
+com/example/demo/LoginAppApplication.class
+com/service/requirementService.class
+com/validate/CustomValidator.class
+com/bean/registerBean.class
+com/service/LoginService.class
