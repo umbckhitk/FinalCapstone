@@ -360,6 +360,7 @@ One food item can have many reviews from different users.
 
 One user can receive many notifications regarding their activity on the app.
 
+<img width="658" alt="Screenshot 2023-12-18 at 9 25 08 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/a810b92e-9136-4af5-a9a2-902c5aaeeb60">
 
 High level database design for donate app
 
