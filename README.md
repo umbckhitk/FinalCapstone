@@ -7,6 +7,9 @@
 ### **SO73977**
 <img width="553" alt="Screenshot 2023-12-18 at 1 58 34 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/843c7ddd-e69a-43f8-bcde-7756f6eb14ad">
 
+ping score 
+<img width="1034" alt="Screenshot 2023-12-19 at 1 07 54 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/3bf3fe49-8226-46d7-a4bd-a8ce03bd13b5">
+<img width="943" alt="Screenshot 2023-12-19 at 1 08 01 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/215e51bf-a0e1-4c98-9e9f-5c8a50ab05a5">
 
 
 **Live LINK : Public URL : http://18.116.31.152:8085/**
