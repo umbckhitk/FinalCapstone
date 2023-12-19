@@ -1,18 +1,10 @@
 
-##
 
+# **Capstone Project Report: Donate App - Reducing Food Waste through Community Connections**
 
-##
+## **Harish Krishna Krishnamoorthy**
 
-
-##
-
-
-## **Capstone Project Report: Donate App - Reducing Food Waste through Community Connections**
-
-**Harish Krishna Krishnamoorthy**
-
-**SO73977**
+### **SO73977**
 <img width="553" alt="Screenshot 2023-12-18 at 1 58 34 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/843c7ddd-e69a-43f8-bcde-7756f6eb14ad">
 
 
