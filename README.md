@@ -13,14 +13,17 @@
 **Harish Krishna Krishnamoorthy**
 
 **SO73977**
+<img width="553" alt="Screenshot 2023-12-18 at 1 58 34 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/843c7ddd-e69a-43f8-bcde-7756f6eb14ad">
 
-![](RackMultipart20231218-1-5e3et_html_cc84be6b6ad57fdc.png)
+
 
 **Live LINK : Public URL : http://18.116.31.152:8085/**
 
 **GITHUB LINK : https://github.com/umbckhitk/FinalCapstone**
 
 **Presentation Link :**
+
+https://drive.google.com/file/d/1gzveeIlxN0XS5ZziXCr2DOgO193nKlD-/view?usp=sharing
 
 **https://www.canva.com/design/DAF0QyRuzuc/h8ObQWiE4r5jZrULgU-Lfw/view?utm\_content=DAF0QyRuzuc&utm\_campaign=designshare&utm\_medium=link&utm\_source=editor**
 
@@ -100,7 +103,8 @@ Ease of use: **High - both Phone, tablet users and PC users.**
 
 **Important Functional Requirements:**
 
-![](RackMultipart20231218-1-5e3et_html_b10cf9a52599bc54.png)
+![Use case diagram](https://github.com/umbckhitk/FinalCapstone/assets/105472386/77b73ff2-d6ac-4057-aa17-be89be4e706f)
+
 
 **Use Case Diagram for Donate app**
 
@@ -152,7 +156,7 @@ The Rapid Application Development (RAD) model was adopted for its iterative and 
 - Flexibility: Easily incorporated new features and functionalities as interest from other organizations grew.
 - Continuous Improvement: Enabled ongoing refinement and optimization based on real-world usage data.
 
-RAD empowered me to build a solution that fit Arbutus Church' needs perfectly, while maintaining the flexibility to adapt and expand for wider community impact. ![](RackMultipart20231218-1-5e3et_html_2cc29470e28a05a.png)
+RAD empowered me to build a solution that fit Arbutus Church' needs perfectly, while maintaining the flexibility to adapt and expand for wider community impact. 
 
 Rad Methodologies followed
 
@@ -191,7 +195,8 @@ Rad Methodologies followed
 2. Flexibility: You can easily change the way your application looks and interacts with users without affecting the underlying data or logic.
 3. Reusability: Model components can be reused in different parts of your application or even in other applications.
 
-![](RackMultipart20231218-1-5e3et_html_252fcccfcc014fca.png)
+<img width="284" alt="Screenshot 2023-12-18 at 4 48 21 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/0c17b22d-2562-44f0-9079-a39ecb03a89b">
+
 
 File Architecture for Model-View-controller
 
@@ -219,7 +224,7 @@ The deployment on AWS EC2 shows an emphasis on scalability and reliability.
 
 Overall, the architecture and design seem well-suited for a web application like the Donate App. It's simple, modular, and scalable, with clear separation of concerns between layers.
 
-![](RackMultipart20231218-1-5e3et_html_65ba8c17c43701af.png)
+![O (1)](https://github.com/umbckhitk/FinalCapstone/assets/105472386/57df07aa-4005-49ce-803b-a2756ee2b8c3)
 
 **Full Component - architecture for donate app**
 
@@ -259,7 +264,7 @@ Each app component, including user profiles, item listings, location services, a
 - Notifications: Real-time alerts for new listings, accepted donations, and pickups.
 - Admin dashboard: Manage users, items, and system settings.
 
-![](RackMultipart20231218-1-5e3et_html_98f1d97ed45dd783.png)
+<img width="758" alt="Screenshot 2023-12-18 at 2 54 00 PM" src="https://github.com/umbckhitk/FinalCapstone/assets/105472386/f9e2fbcb-852a-42ec-ada2-ac19469478e6">
 
 **Full Flow/Page architecture for Donate app**
 
@@ -355,7 +360,6 @@ One food item can have many reviews from different users.
 
 One user can receive many notifications regarding their activity on the app.
 
-![](RackMultipart20231218-1-5e3et_html_687fb455139facbe.png)
 
 High level database design for donate app
 
